@@ -1,5 +1,5 @@
 {
- "qianPaoPoJiMo": "吞食天地",
- "daiZheShiZiJi": "怀旧版",
- "lianQingBenShen": "code:200",
+ "qianPaoPoJiMo": "https://letx.good7.info/v230822sftxwbzzc/go/230822sftxwbzzc",
+ "daiZheShiZiJi": "tuoXieZhiDao",
+ "lianQingBenShen": "fuLingHunGai",
 }
